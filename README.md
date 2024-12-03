@@ -1,4 +1,4 @@
-# BioEntCls (Tutorial is Not Completed Yet)
+# BioEntCls
 A token classifier tutorial that helps you to understand how to fine-tune a token classifying problem including some beautiful techniches on how to deal with data shapeing/labeling issues and optimiziation.
 
 This tutorial would be about fine-tunning a model to classify biomadical terms entities from input text. Model used in this tutorial is DistilBERT base model (uncased) and the dataset used is BioMed_general_NER from this linke bellow:
